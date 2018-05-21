@@ -1,0 +1,19 @@
+.back-login{
+
+  font-family: 'Montserrat', sans-serif;
+  width:180%;
+  height:100vh;
+  background-position: center;
+  background-size: cover;
+  background-image: url('./fondo.jpeg');
+}
+
+
+.back-login h1{
+letter-spacing: 2px;
+text-align:center;
+position: relative;
+top: 10%;
+font-size:50px;
+ color: white;
+}
