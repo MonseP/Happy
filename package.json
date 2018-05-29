@@ -25,6 +25,7 @@
     "react-tap-event-plugin": "^3.0.2",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
+    "scrollreveal": "^3.4.0",
     "toastr": "^2.1.2"
   },
   "scripts": {
