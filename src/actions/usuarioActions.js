@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import firebase from '../firebase';
 import toastr from 'toastr';
 

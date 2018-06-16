@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import React, {Component} from 'react';
 import {AppBar,FlatButton} from 'material-ui';
 import {connect} from 'react-redux';

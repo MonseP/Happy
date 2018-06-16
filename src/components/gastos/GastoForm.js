@@ -1,6 +1,7 @@
 /**
- * Created by BlisS on 22/03/17.
+ * Created by Montserrat Plata Torres on 21/01/18.
  */
+
 import React from 'react';
 //import TextInput from '../common/TextInput';
 import {MenuItem, SelectField, TextField, DatePicker} from "material-ui";

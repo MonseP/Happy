@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import initialState from './initialState';
 
 export default function cajaReducer(state = [], action){

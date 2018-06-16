@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import {combineReducers} from 'redux';
 import ingresoReducer from './ingresoReducer';
 import tipoReducer from './tipoReducer';

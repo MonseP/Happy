@@ -1,3 +1,6 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
 import React from 'react';
 import './Home.css';
 import {Link} from 'react-router-dom';
@@ -15,19 +18,16 @@ export const NosotrosDisplay = () => {
                 tag="figure"
             >
             <div className="nos_texto">
-                <h2 className="desaper">Human inovation </h2>
-                <h2 className="desaper">by food</h2>
-                <h2 className="apere">Human inovation by food</h2>
+                <h2 className="desaper"> </h2>
+                <h2 className="desaper"> </h2>
+                <h2 className="apere"></h2>
                 <p className="texto">
-                    Como promotores de la producción orgánica, utilizamos todos los recuros
-                    dandole prioridad a la fertilidad del suelo y la actividad biológica, al mismo
-                    tiempo que minimizamos el uso de recursos no renovables, además de no utilizar festilizantes
-                    para proteger no solo el medio ambiente, sino tambien la salud humana.
+
                 </p>
-                <p className="texto">¿Listo para una nueva forma de vida?</p>
+                <p className="texto">¿?</p>
                 <br/>
                 <Link to="/catalogo">
-                    <button className="btn_explore">Explorar</button>
+                    <button className="btn_explore"></button>
                 </Link>
             </div>
             </Parallax>

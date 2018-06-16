@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import React, {Component} from 'react';
 import {Drawer, MenuItem} from 'material-ui';
 import HomeIcon from 'material-ui/svg-icons/action/home';

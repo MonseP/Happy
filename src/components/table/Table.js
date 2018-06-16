@@ -1,3 +1,6 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
 import React, {Component} from 'react';
 import QueueAnim from 'rc-queue-anim';
 import { Table, Icon, Popconfirm, message } from 'antd';

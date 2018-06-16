@@ -1,5 +1,5 @@
 /**
- * Created by BlisS on 22/03/17.
+ * Created by Montserrat Plata Torres on 21/01/18.
  */
 import React, {PropTypes} from 'react';
 import {connect} from 'react-redux';

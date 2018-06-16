@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 export default function usuarioReducer ( state = null , action ){
     switch(action.type){
         case "INICIAR_SESION":

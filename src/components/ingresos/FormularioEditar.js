@@ -1,3 +1,6 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
 import React from 'react';
 import {TextField} from 'material-ui';
 

@@ -1,3 +1,7 @@
+/**
+ * Created by Montserrat Plata Torres on 21/01/18.
+ */
+
 import React from 'react';
 import {DatePicker, RaisedButton} from 'material-ui';
 import {Row, Col} from 'antd';
